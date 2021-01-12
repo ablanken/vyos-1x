@@ -82,7 +82,7 @@
                 <properties>
                   <help>Show IPv6 routes in policy tables</help>
                 </properties>
-                <command>vtysh -c "show ipv6 route table all"</command>
+                <command>vtysh -c "show ipv6 route tables"</command>
               </node>
               <tagNode name="table">
                 <properties>
